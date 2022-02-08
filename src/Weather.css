@@ -4,6 +4,7 @@
   padding: 16px;
   color: rgb(135 135 135);
   border-radius: 5px;
+  background-color: #c4c1e0;
 }
 
 .Weather form {
@@ -15,11 +16,13 @@
   font-weight: 100;
   line-height: 29px;
   margin-bottom: 0;
+  color: black;
 }
 
 .Weather ul {
   margin: 0;
   padding: 0;
+  color: black;
 }
 
 .Weather li {
@@ -27,6 +30,7 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
+  color: black;
 }
 
 .Weather canvas {
@@ -50,4 +54,8 @@
   color: rgb(33, 33, 33);
   font-weight: 400;
   line-height: 1;
+}
+
+.Weather a {
+  text-decoration: none;
 }
