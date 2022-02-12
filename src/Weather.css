@@ -4,11 +4,11 @@
   padding: 16px;
   color: rgb(135 135 135);
   border-radius: 5px;
-  background-color: #c4c1e0;
+  background-color: white;
 }
 
 .Weather form {
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 .Weather h1 {

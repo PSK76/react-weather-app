@@ -23,6 +23,14 @@ export default function App() {
             rel="noreferrer"
           >
             Open Sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://awesome-swirles-4625ca.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify
           </a>
           .
         </footer>
