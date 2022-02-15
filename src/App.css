@@ -3,6 +3,14 @@
   margin: 30px auto;
 }
 
+.Weather {
+  background: url("./Image1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
 .App footer {
   margin: 10px 0;
   font-size: 12px;

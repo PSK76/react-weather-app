@@ -30,11 +30,11 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
-  color: black;
+  color: white;
 }
 
 .Weather canvas {
-  margin-top: 5px;
+  margin-top: 10px;
   margin-right: 5px;
   display: inline-block;
 }
@@ -43,7 +43,7 @@
   font-size: 64px;
   font-weight: 400;
   line-height: 64px;
-  color: rgb(33, 33, 33);
+  color: white;
   margin-left: 5px;
 }
 
@@ -51,11 +51,20 @@
   position: relative;
   top: -33px;
   font-size: 16px;
-  color: rgb(33, 33, 33);
+  color: white;
   font-weight: 400;
   line-height: 1;
 }
 
 .Weather a {
   text-decoration: none;
+}
+
+.WeatherForecast-Day {
+  color: white;
+  margin-top: 10px;
+}
+
+.WeatherForecast-temperatures {
+  color: black;
 }
